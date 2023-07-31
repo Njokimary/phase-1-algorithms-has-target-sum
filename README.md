@@ -1,6 +1,6 @@
 # Has Target Sum Lab
 
-## Learning Goals
+## Learning Goals 
 
 - Practice algorithmic problem solving
 - Identify the Big O of an algorithm
